@@ -1,2 +1,4 @@
 create new file myself
 its red now, we need to commit
+
+editor: add more things, and pull/update to your intellij
