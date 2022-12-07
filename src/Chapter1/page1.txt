@@ -1,0 +1,6 @@
+Hello
+
+create package and create page1 txt,
+there is no git now
+next enable version control from VCS
+right now we create local repository
